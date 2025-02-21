@@ -12,7 +12,7 @@
         {
             if (string.IsNullOrEmpty(description))
             {
-                throw new ArgumentException("Описание задачи不能为空.");
+                throw new ArgumentException("Описание задачи отсутствует.");
             }
             Tasks.Add(new Task(description));
             SaveTasks();
