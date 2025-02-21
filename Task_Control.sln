@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_Control", "Task_Control\Task_Control.csproj", "{D55B1F0C-4442-49C7-93E4-E03575690238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagerClass", "TaskManagerClass\TaskManagerClass.csproj", "{31B48D70-40FB-4BAB-AF95-1D818A9ECE16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D55B1F0C-4442-49C7-93E4-E03575690238}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D55B1F0C-4442-49C7-93E4-E03575690238}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D55B1F0C-4442-49C7-93E4-E03575690238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B48D70-40FB-4BAB-AF95-1D818A9ECE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B48D70-40FB-4BAB-AF95-1D818A9ECE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B48D70-40FB-4BAB-AF95-1D818A9ECE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B48D70-40FB-4BAB-AF95-1D818A9ECE16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
