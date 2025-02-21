@@ -73,6 +73,5 @@ namespace Task_Control
                 MessageBox.Show(ex.Message);
             }
         }
-
     }
 }
